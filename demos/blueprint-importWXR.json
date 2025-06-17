@@ -1,12 +1,21 @@
 {
-    "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-    "steps": [
-      {
-        "step": "importWxr",
-        "file": {
-            "resource" : "url",
-            "path": "./content/blog-data.wxr"
-        }
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "steps": [
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/content/blog-data.wxr"
       }
-    ]
-  }
+    },
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "blogname": "Welcome to WordPress Playground",
+        "blogdescription": "WordPress without a server",
+        "show_on_front": "page",
+        "page_on_front": 2
+      }
+    }
+  ]
+}
