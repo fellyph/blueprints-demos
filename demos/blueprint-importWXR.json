@@ -1,0 +1,12 @@
+{
+    "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+    "steps": [
+      {
+        "step": "importWxr",
+        "file": {
+            "resource" : "url",
+            "path": "./content/blog-data.wxr"
+        }
+      }
+    ]
+  }
