@@ -1,0 +1,25 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "steps": [
+    {
+      "step": "runPHP",
+      "code": "<?php require_once 'wordpress/wp-load.php';\nforeach ( array( 'post', 'page', 'attachment', 'revision', 'nav_menu_item' ) as $post_type ) {\n$posts = get_posts( array('posts_per_page' => -1, 'post_type' => $post_type ) );\nforeach ($posts as $post) wp_delete_post($post->ID, true);\n}"
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://github.com/fellyph/blueprints-demos/blob/main/demos/content/blog-data.wxr"
+      }
+    },
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "blogname": "Welcome to WordPress Playground",
+        "blogdescription": "WordPress without a server",
+        "show_on_front": "page",
+        "page_on_front": 2
+      }
+    }
+  ]
+}
