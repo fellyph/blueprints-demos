@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
