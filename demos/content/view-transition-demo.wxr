@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.2" created="2025-07-21 16:36" -->
+	<!-- generator="WordPress/6.8.2" created="2025-07-21 17:17" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,14 +26,14 @@
 >
 
 <channel>
-	<title>Demo site</title>
-	<link>http://localhost:8885</link>
+	<title>My WordPress Website</title>
+	<link>https://playground.wordpress.net/scope:honest-modern-river</link>
 	<description></description>
-	<pubDate>Mon, 21 Jul 2025 16:36:26 +0000</pubDate>
+	<pubDate>Mon, 21 Jul 2025 17:17:52 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://localhost:8885</wp:base_site_url>
-	<wp:base_blog_url>http://localhost:8885</wp:base_blog_url>
+	<wp:base_site_url>https://playground.wordpress.net/scope:honest-modern-river</wp:base_site_url>
+	<wp:base_blog_url>https://playground.wordpress.net/scope:honest-modern-river</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -44,14 +44,14 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id>3</wp:term_id>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[header]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[header]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>2</wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[twentytwentyfive]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -69,20 +69,24 @@
 
 		<item>
 		<title><![CDATA[Lisboa]]></title>
-		<link>http://localhost:8885/?p=1</link>
+		<link>https://playground.wordpress.net/scope:honest-modern-river/2025/07/21/hello-world/</link>
 		<pubDate>Mon, 21 Jul 2025 16:14:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8885/?p=1</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://pub-4517acecab6543f0bc62af2fea95f2b6.r2.dev/Gemini_Generated_Image_83jl2g83jl2g83jl.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
 <p>Lisboa, a capital portuguesa, estende-se por sete colinas, oferecendo miradouros com vistas panorâmicas sobre o Tejo. A cidade mistura o charme das suas ruas históricas, o fado melancólico e a modernidade vibrante, cativando todos com a sua luz única e bairros distintos.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-21 16:14:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-07-21 16:14:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:29:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:29:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-21 17:15:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-21 17:15:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
@@ -94,11 +98,11 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_id>2</wp:comment_id>
 			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
 			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
@@ -107,7 +111,7 @@
 			<wp:comment_date_gmt><![CDATA[2025-07-21 16:14:35]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp:comment_content>
+Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc\">Gravatar</a>.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -116,7 +120,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 					</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>http://localhost:8885/?page_id=2</link>
+		<link>https://playground.wordpress.net/scope:honest-modern-river/?page_id=2</link>
 		<pubDate>Mon, 21 Jul 2025 16:14:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8885/?page_id=2</guid>
@@ -144,12 +148,12 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-21 16:14:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-07-21 16:14:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:14:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:14:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-21 17:17:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-21 17:17:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
@@ -159,10 +163,138 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1753118264]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>http://localhost:8885/?page_id=3</link>
+		<link>https://playground.wordpress.net/scope:honest-modern-river/?page_id=3</link>
+		<pubDate>Thu, 17 Jul 2025 01:17:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://127.0.0.1:9400/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">Who we are</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://127.0.0.1:9400.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Comments</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Media</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cookies</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Embedded content from other websites</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Who we share your data with</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How long we retain your data</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">What rights you have over your data</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Where your data is sent</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2025-07-17 01:17:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-07-17 01:17:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-07-21 17:17:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-21 17:17:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1753118260]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>https://playground.wordpress.net/scope:honest-modern-river/?page_id=4</link>
 		<pubDate>Mon, 21 Jul 2025 16:14:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8885/?page_id=3</guid>
@@ -241,15 +373,15 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- /wp:paragraph -->
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
+		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-21 16:14:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-07-21 16:14:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:14:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:14:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-21 17:17:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-21 17:17:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_name><![CDATA[privacy-policy__trashed-2]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
@@ -259,17 +391,33 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1753118262]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>http://localhost:8885/?p=4</link>
+		<link>https://playground.wordpress.net/scope:honest-modern-river/2025/07/21/navigation/</link>
 		<pubDate>Mon, 21 Jul 2025 16:14:35 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8885/?p=4</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
+		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-21 16:14:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-07-21 16:14:35]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2025-07-21 16:14:35]]></wp:post_modified>
@@ -286,14 +434,14 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>http://localhost:8885/?p=5</link>
+		<link>https://playground.wordpress.net/scope:honest-modern-river/2025/07/21/wp-global-styles-twentytwentyfive/</link>
 		<pubDate>Mon, 21 Jul 2025 16:14:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8885/?p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
+		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-21 16:14:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-07-21 16:14:40]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2025-07-21 16:14:40]]></wp:post_modified>
@@ -308,254 +456,31 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
-						</item>
-					<item>
-		<title><![CDATA[Gemini_Generated_Image_83jl2g83jl2g83jl]]></title>
-		<link>http://localhost:8885/?attachment_id=8</link>
-		<pubDate>Mon, 21 Jul 2025 16:26:00 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_83jl2g83jl2g83jl.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-21 16:26:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-21 16:26:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:26:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:26:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[gemini_generated_image_83jl2g83jl2g83jl]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_83jl2g83jl2g83jl.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/07/Gemini_Generated_Image_83jl2g83jl2g83jl.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:51:"2025/07/Gemini_Generated_Image_83jl2g83jl2g83jl.png";s:8:"filesize";i:5310055;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_83jl2g83jl2g83jl-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:187483;}s:5:"large";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_83jl2g83jl2g83jl-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1723518;}s:9:"thumbnail";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_83jl2g83jl2g83jl-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:54127;}s:12:"medium_large";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_83jl2g83jl2g83jl-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:996078;}s:9:"1536x1536";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_83jl2g83jl2g83jl-1536x1536.png";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3424813;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Gemini_Generated_Image_83jl2g83jl2g83jl]]></title>
-		<link>http://localhost:8885/?attachment_id=9</link>
-		<pubDate>Mon, 21 Jul 2025 16:26:04 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_83jl2g83jl2g83jl-1.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-21 16:26:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-21 16:26:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:26:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:26:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[gemini_generated_image_83jl2g83jl2g83jl-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_83jl2g83jl2g83jl-1.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/07/Gemini_Generated_Image_83jl2g83jl2g83jl-1.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:53:"2025/07/Gemini_Generated_Image_83jl2g83jl2g83jl-1.png";s:8:"filesize";i:5310055;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_83jl2g83jl2g83jl-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:187483;}s:5:"large";a:5:{s:4:"file";s:55:"Gemini_Generated_Image_83jl2g83jl2g83jl-1-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1723518;}s:9:"thumbnail";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_83jl2g83jl2g83jl-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:54127;}s:12:"medium_large";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_83jl2g83jl2g83jl-1-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:996078;}s:9:"1536x1536";a:5:{s:4:"file";s:55:"Gemini_Generated_Image_83jl2g83jl2g83jl-1-1536x1536.png";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3424813;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Gemini_Generated_Image_trof06trof06trof]]></title>
-		<link>http://localhost:8885/?attachment_id=10</link>
-		<pubDate>Mon, 21 Jul 2025 16:26:14 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_trof06trof06trof.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-21 16:26:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-21 16:26:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:26:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:26:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[gemini_generated_image_trof06trof06trof]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_trof06trof06trof.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/07/Gemini_Generated_Image_trof06trof06trof.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:51:"2025/07/Gemini_Generated_Image_trof06trof06trof.png";s:8:"filesize";i:5757067;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_trof06trof06trof-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:189522;}s:5:"large";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_trof06trof06trof-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1822174;}s:9:"thumbnail";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_trof06trof06trof-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:54018;}s:12:"medium_large";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_trof06trof06trof-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1033089;}s:9:"1536x1536";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_trof06trof06trof-1536x1536.png";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3655034;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Gemini_Generated_Image_1ottcy1ottcy1ott]]></title>
-		<link>http://localhost:8885/?attachment_id=11</link>
-		<pubDate>Mon, 21 Jul 2025 16:26:16 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_1ottcy1ottcy1ott.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-21 16:26:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-21 16:26:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:26:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:26:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[gemini_generated_image_1ottcy1ottcy1ott]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_1ottcy1ottcy1ott.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/07/Gemini_Generated_Image_1ottcy1ottcy1ott.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:51:"2025/07/Gemini_Generated_Image_1ottcy1ottcy1ott.png";s:8:"filesize";i:6200419;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_1ottcy1ottcy1ott-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:199064;}s:5:"large";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_1ottcy1ottcy1ott-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1947423;}s:9:"thumbnail";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_1ottcy1ottcy1ott-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:55257;}s:12:"medium_large";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_1ottcy1ottcy1ott-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1106504;}s:9:"1536x1536";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_1ottcy1ottcy1ott-1536x1536.png";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3922768;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Gemini_Generated_Image_we7iutwe7iutwe7i]]></title>
-		<link>http://localhost:8885/?attachment_id=12</link>
-		<pubDate>Mon, 21 Jul 2025 16:26:17 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_we7iutwe7iutwe7i.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-21 16:26:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-21 16:26:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:26:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:26:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[gemini_generated_image_we7iutwe7iutwe7i]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_we7iutwe7iutwe7i.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/07/Gemini_Generated_Image_we7iutwe7iutwe7i.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:51:"2025/07/Gemini_Generated_Image_we7iutwe7iutwe7i.png";s:8:"filesize";i:6768694;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_we7iutwe7iutwe7i-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:219034;}s:5:"large";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_we7iutwe7iutwe7i-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2183008;}s:9:"thumbnail";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_we7iutwe7iutwe7i-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:57998;}s:12:"medium_large";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_we7iutwe7iutwe7i-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1255347;}s:9:"1536x1536";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_we7iutwe7iutwe7i-1536x1536.png";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4364681;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Gemini_Generated_Image_83jl2g83jl2g83jl]]></title>
-		<link>http://localhost:8885/?attachment_id=13</link>
-		<pubDate>Mon, 21 Jul 2025 16:26:19 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_83jl2g83jl2g83jl-2.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-21 16:26:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-21 16:26:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:26:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:26:19]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[gemini_generated_image_83jl2g83jl2g83jl-3]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_83jl2g83jl2g83jl-2.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/07/Gemini_Generated_Image_83jl2g83jl2g83jl-2.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:53:"2025/07/Gemini_Generated_Image_83jl2g83jl2g83jl-2.png";s:8:"filesize";i:5310055;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_83jl2g83jl2g83jl-2-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:187483;}s:5:"large";a:5:{s:4:"file";s:55:"Gemini_Generated_Image_83jl2g83jl2g83jl-2-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1723518;}s:9:"thumbnail";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_83jl2g83jl2g83jl-2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:54127;}s:12:"medium_large";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_83jl2g83jl2g83jl-2-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:996078;}s:9:"1536x1536";a:5:{s:4:"file";s:55:"Gemini_Generated_Image_83jl2g83jl2g83jl-2-1536x1536.png";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3424813;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Gemini_Generated_Image_pi34y8pi34y8pi34]]></title>
-		<link>http://localhost:8885/?attachment_id=14</link>
-		<pubDate>Mon, 21 Jul 2025 16:26:21 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_pi34y8pi34y8pi34.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-21 16:26:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-21 16:26:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:26:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:26:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[gemini_generated_image_pi34y8pi34y8pi34]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8885/wp-content/uploads/2025/07/Gemini_Generated_Image_pi34y8pi34y8pi34.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/07/Gemini_Generated_Image_pi34y8pi34y8pi34.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:51:"2025/07/Gemini_Generated_Image_pi34y8pi34y8pi34.png";s:8:"filesize";i:6424471;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_pi34y8pi34y8pi34-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:203544;}s:5:"large";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_pi34y8pi34y8pi34-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2024272;}s:9:"thumbnail";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_pi34y8pi34y8pi34-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:56533;}s:12:"medium_large";a:5:{s:4:"file";s:51:"Gemini_Generated_Image_pi34y8pi34y8pi34-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1144352;}s:9:"1536x1536";a:5:{s:4:"file";s:53:"Gemini_Generated_Image_pi34y8pi34y8pi34-1536x1536.png";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4053833;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Braga]]></title>
-		<link>http://localhost:8885/?p=16</link>
+		<link>https://playground.wordpress.net/scope:honest-modern-river/2025/07/21/braga/</link>
 		<pubDate>Mon, 21 Jul 2025 16:27:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8885/?p=16</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://pub-4517acecab6543f0bc62af2fea95f2b6.r2.dev/Gemini_Generated_Image_trof06trof06trof.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
 <p>Braga, uma das cidades mais antigas de Portugal, é um centro de profunda religiosidade e rica herança cultural. Com as suas majestosas igrejas barrocas, belos jardins e o santuário do Bom Jesus do Monte, a cidade exala uma aura de espiritualidade e grandiosidade histórica.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-21 16:27:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-07-21 16:27:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:27:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:27:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-21 17:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-21 17:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[braga]]></wp:post_name>
@@ -567,18 +492,22 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Lagos]]></title>
-		<link>http://localhost:8885/?p=18</link>
+		<link>https://playground.wordpress.net/scope:honest-modern-river/2025/07/21/lagos/</link>
 		<pubDate>Mon, 21 Jul 2025 16:28:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8885/?p=18</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://pub-4517acecab6543f0bc62af2fea95f2b6.r2.dev/Gemini_Generated_Image_we7iutwe7iutwe7i.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
 <p>Situada no Algarve, Lagos destaca-se pelas suas impressionantes formações rochosas, praias douradas e águas cristalinas. A cidade combina uma rica história marítima com uma atmosfera descontraída, sendo um paraíso para quem procura belezas naturais e o legado dos Descobrimentos.</p>
 <!-- /wp:paragraph -->
 
@@ -589,8 +518,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-21 16:28:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-07-21 16:28:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:28:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:28:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-21 17:14:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-21 17:14:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[lagos]]></wp:post_name>
@@ -602,26 +531,30 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Aveiro]]></title>
-		<link>http://localhost:8885/?p=20</link>
+		<link>https://playground.wordpress.net/scope:honest-modern-river/2025/07/21/aveiro/</link>
 		<pubDate>Mon, 21 Jul 2025 16:28:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8885/?p=20</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://pub-4517acecab6543f0bc62af2fea95f2b6.r2.dev/Gemini_Generated_Image_1ottcy1ottcy1ott.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
 <p>Conhecida como a "Veneza de Portugal", Aveiro é famosa pelos seus canais pitorescos, onde deslizam os coloridos barcos moliceiros. A cidade é um encanto visual, com a sua arquitetura Arte Nova e os doces ovos moles, oferecendo uma experiência única e tranquila.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-21 16:28:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-07-21 16:28:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:28:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:28:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-21 17:12:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-21 17:12:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[aveiro]]></wp:post_name>
@@ -633,26 +566,30 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Porto]]></title>
-		<link>http://localhost:8885/?p=23</link>
+		<link>https://playground.wordpress.net/scope:honest-modern-river/2025/07/21/porto/</link>
 		<pubDate>Mon, 21 Jul 2025 16:29:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8885/?p=23</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://pub-4517acecab6543f0bc62af2fea95f2b6.r2.dev/Gemini_Generated_Image_pi34y8pi34y8pi34.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
 <p>Porto encanta com a sua arquitetura histórica, as margens pitorescas do Douro e as caves de vinho do Porto. A cidade é um labirinto de ruas estreitas e igrejas barrocas, culminando em vistas deslumbrantes e uma atmosfera vibrante, que convida à exploração a cada esquina.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-21 16:29:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-07-21 16:29:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:29:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:29:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-21 17:15:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-21 17:15:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[porto]]></wp:post_name>
@@ -664,13 +601,13 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog Home]]></title>
-		<link>http://localhost:8885/?p=25</link>
+		<link>https://playground.wordpress.net/scope:honest-modern-river/2025/07/21/home/</link>
 		<pubDate>Mon, 21 Jul 2025 16:30:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8885/?p=25</guid>
@@ -685,11 +622,11 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- wp:query {"queryId":0,"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true,"taxQuery":null,"parents":[]},"align":"full","layout":{"type":"default"}} -->
 <div class="wp-block-query alignfull"><!-- wp:post-template {"align":"full","layout":{"type":"grid","columnCount":3}} -->
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /-->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:post-title {"isLink":true,"fontSize":"x-large"} /-->
 
-<!-- wp:post-title {"isLink":true,"fontSize":"x-large"} /-->
+<!-- wp:post-date {"isLink":true,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40"}}},"fontSize":"small"} /-->
 
-<!-- wp:post-date {"isLink":true,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40"}}},"fontSize":"small"} /--></div>
+<!-- wp:post-content /--></div>
 <!-- /wp:group -->
 <!-- /wp:post-template -->
 
@@ -718,8 +655,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-21 16:30:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-07-21 16:30:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-21 16:35:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-21 16:35:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-21 17:16:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-21 17:16:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -734,10 +671,14 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>http://localhost:8885/?p=26</link>
+		<link>https://playground.wordpress.net/scope:honest-modern-river/2025/07/21/header/</link>
 		<pubDate>Mon, 21 Jul 2025 16:30:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8885/?p=26</guid>
@@ -775,6 +716,10 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
