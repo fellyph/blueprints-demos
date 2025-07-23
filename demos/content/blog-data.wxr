@@ -245,7 +245,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?p=5</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"styles":{"blocks":{"core\/button":{"border":{"radius":"0px"},"typography":{"fontFamily":"var(--wp--preset--font-family--manrope)","textTransform":"uppercase","fontStyle":"normal","fontWeight":"600"}}},"elements":{"button":{"color":{"background":"var(--wp--preset--color--accent-2)"},"typography":{"textTransform":"none"}},"heading":{"typography":{"fontStyle":"normal","fontWeight":"400","fontFamily":"var(--wp--preset--font-family--eb-garamond)","textTransform":"none","lineHeight":"1.5","letterSpacing":"0px"}}},"color":{"text":"var(--wp--preset--color--accent-4)"},"typography":{"fontStyle":"normal","fontWeight":"300","fontSize":"var(--wp--preset--font-size--medium)","letterSpacing":"0px","fontFamily":"var(--wp--preset--font-family--inter)","lineHeight":"1.5"}},"settings":{"color":{"palette":{"theme":[{"color":"#FFFFFF","name":"Base","slug":"base"},{"color":"#f2f6f3","name":"Contrast","slug":"contrast"},{"color":"#FFEE58","name":"Accent 1","slug":"accent-1"},{"color":"#1960d9","name":"Accent 2","slug":"accent-2"},{"color":"#1960d9","name":"Accent 3","slug":"accent-3"},{"color":"#1e1e1e","name":"Accent 4","slug":"accent-4"},{"color":"#FBFAF3","name":"Accent 5","slug":"accent-5"},{"color":"color-mix(in srgb, currentColor 20%, transparent)","name":"Accent 6","slug":"accent-6"}]}},"typography":{"fontFamilies":{"theme":[{"name":"Manrope","slug":"manrope","fontFamily":"Manrope, sans-serif","fontFace":[{"src":["file:.\/assets\/fonts\/manrope\/Manrope-VariableFont_wght.woff2"],"fontWeight":"200 800","fontStyle":"normal","fontFamily":"Manrope"}]},{"name":"Fira Code","slug":"fira-code","fontFamily":"\"Fira Code\", monospace","fontFace":[{"src":["file:.\/assets\/fonts\/fira-code\/FiraCode-VariableFont_wght.woff2"],"fontWeight":"300 700","fontStyle":"normal","fontFamily":"\"Fira Code\""}]}],"custom":[{"name":"EB Garamond","slug":"eb-garamond","fontFamily":"\"EB Garamond\", serif","fontFace":[{"src":"http:\/\/localhost:8881\/wp-content\/uploads\/fonts\/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RUBoV-e6yHgQ.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"EB Garamond\""}]},{"name":"IBM Plex Serif","slug":"ibm-plex-serif","fontFamily":"\"IBM Plex Serif\", serif","fontFace":[{"src":"http:\/\/localhost:8881\/wp-content\/uploads\/fonts\/jizAREVNn1dOx-zrZ2X3pZvkTi3s-BI2oVrBicOg.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"IBM Plex Serif\""}]},{"name":"Inter","slug":"inter","fontFamily":"Inter, sans-serif","fontFace":[{"src":"http:\/\/localhost:8881\/wp-content\/uploads\/fonts\/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZ1rib2Bg-4.woff2","fontWeight":"300","fontStyle":"normal","fontFamily":"Inter"}]}]}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
+		<content:encoded><![CDATA[{"styles":{"blocks":{"core\/button":{"border":{"radius":"0px"},"typography":{"fontFamily":"var(--wp--preset--font-family--manrope)","textTransform":"uppercase","fontStyle":"normal","fontWeight":"600"}}},"elements":{"button":{"color":{"background":"var(--wp--preset--color--accent-2)"},"typography":{"textTransform":"none"}},"heading":{"typography":{"fontStyle":"normal","fontWeight":"400","fontFamily":"var(--wp--preset--font-family--eb-garamond)","textTransform":"none","lineHeight":"1.5","letterSpacing":"0px"}}},"color":{"text":"var(--wp--preset--color--accent-4)"},"typography":{"fontStyle":"normal","fontWeight":"300","fontSize":"var(--wp--preset--font-size--medium)","letterSpacing":"0px","fontFamily":"var(--wp--preset--font-family--inter)","lineHeight":"1.5"}},"settings":{"color":{"palette":{"theme":[{"color":"#FFFFFF","name":"Base","slug":"base"},{"color":"#f2f6f3","name":"Contrast","slug":"contrast"},{"color":"#FFEE58","name":"Accent 1","slug":"accent-1"},{"color":"#1960d9","name":"Accent 2","slug":"accent-2"},{"color":"#1960d9","name":"Accent 3","slug":"accent-3"},{"color":"#1e1e1e","name":"Accent 4","slug":"accent-4"},{"color":"#FBFAF3","name":"Accent 5","slug":"accent-5"},{"color":"color-mix(in srgb, currentColor 20%, transparent)","name":"Accent 6","slug":"accent-6"}]}},"typography":{"fontFamilies":{"theme":[{"name":"Manrope","slug":"manrope","fontFamily":"Manrope, sans-serif","fontFace":[{"src":["file:.\/assets\/fonts\/manrope\/Manrope-VariableFont_wght.woff2"],"fontWeight":"200 800","fontStyle":"normal","fontFamily":"Manrope"}]},{"name":"Fira Code","slug":"fira-code","fontFamily":"\"Fira Code\", monospace","fontFace":[{"src":["file:.\/assets\/fonts\/fira-code\/FiraCode-VariableFont_wght.woff2"],"fontWeight":"300 700","fontStyle":"normal","fontFamily":"\"Fira Code\""}]}],"custom":[{"name":"EB Garamond","slug":"eb-garamond","fontFamily":"\"EB Garamond\", serif","fontFace":[{"src":"https:\/\/github.com\/fellyph\/blueprints-demos\/raw\/refs\/heads\/main\/demos\/assets\/fonts\/EBGaramond.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"EB Garamond\""}]},{"name":"IBM Plex Serif","slug":"ibm-plex-serif","fontFamily":"\"IBM Plex Serif\", serif","fontFace":[{"src":"https:\/\/github.com\/fellyph\/blueprints-demos\/raw\/refs\/heads\/main\/demos\/assets\/fonts\/IBMPlexSerif.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"IBM Plex Serif\""}]},{"name":"Inter","slug":"inter","fontFamily":"Inter, sans-serif","fontFace":[{"src":"https:\/\/github.com\/fellyph\/blueprints-demos\/raw\/refs\/heads\/main\/demos\/assets\/fonts\/Inter.woff2","fontWeight":"300","fontStyle":"normal","fontFamily":"Inter"}]}]}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2025-06-17 08:12:04]]></wp:post_date>
@@ -397,7 +397,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?p=26</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/localhost:8881\/wp-content\/uploads\/fonts\/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRUBoV-e6yHgQ.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"EB Garamond\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-6.7\/previews\/eb-garamond\/eb-garamond-500-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/github.com\/fellyph\/blueprints-demos\/raw\/refs\/heads\/main\/demos\/assets\/fonts\/EBGaramond.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"EB Garamond\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-6.7\/previews\/eb-garamond\/eb-garamond-500-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-02 17:08:20]]></wp:post_date>
@@ -415,7 +415,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRUBoV-e6yHgQ.woff2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[EBGaramond.woff2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -449,7 +449,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?p=29</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/localhost:8881\/wp-content\/uploads\/fonts\/jizAREVNn1dOx-zrZ2X3pZvkTi3s-BI2oVrBicOg.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"IBM Plex Serif\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-6.7\/previews\/ibm-plex-serif\/ibm-plex-serif-500-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/github.com\/fellyph\/blueprints-demos\/raw\/refs\/heads\/main\/demos\/assets\/fonts\/IBMPlexSerif.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"\"IBM Plex Serif\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-6.7\/previews\/ibm-plex-serif\/ibm-plex-serif-500-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-02 17:09:22]]></wp:post_date>
@@ -467,7 +467,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[jizAREVNn1dOx-zrZ2X3pZvkTi3s-BI2oVrBicOg.woff2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[IBMPlexSerif.woff2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -501,7 +501,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?p=32</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/localhost:8881\/wp-content\/uploads\/fonts\/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZ1rib2Bg-4.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"Inter","preview":"https:\/\/s.w.org\/images\/fonts\/wp-6.7\/previews\/inter\/inter-500-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/github.com\/fellyph\/blueprints-demos\/raw\/refs\/heads\/main\/demos\/assets\/fonts\/Inter.woff2","fontWeight":"500","fontStyle":"normal","fontFamily":"Inter","preview":"https:\/\/s.w.org\/images\/fonts\/wp-6.7\/previews\/inter\/inter-500-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-02 17:09:43]]></wp:post_date>
@@ -519,7 +519,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZ1rib2Bg-4.woff2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Inter.woff2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -707,7 +707,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?p=49</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/localhost:8881\/wp-content\/uploads\/fonts\/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZ1rib2Bg-4.woff2","fontWeight":"300","fontStyle":"normal","fontFamily":"Inter","preview":"https:\/\/s.w.org\/images\/fonts\/wp-6.7\/previews\/inter\/inter-300-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/github.com\/fellyph\/blueprints-demos\/raw\/refs\/heads\/main\/demos\/assets\/fonts\/Inter.woff2","fontWeight":"300","fontStyle":"normal","fontFamily":"Inter","preview":"https:\/\/s.w.org\/images\/fonts\/wp-6.7\/previews\/inter\/inter-300-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-03 11:01:41]]></wp:post_date>
@@ -725,7 +725,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZ1rib2Bg-4.woff2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Inter.woff2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -834,7 +834,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?p=95</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"src":"http:\/\/localhost:8881\/wp-content\/uploads\/fonts\/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RUBoV-e6yHgQ.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"EB Garamond\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-6.7\/previews\/eb-garamond\/eb-garamond-400-normal.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"src":"https:\/\/github.com\/fellyph\/blueprints-demos\/raw\/refs\/heads\/main\/demos\/assets\/fonts\/EBGaramond.woff2","fontWeight":"400","fontStyle":"normal","fontFamily":"\"EB Garamond\"","preview":"https:\/\/s.w.org\/images\/fonts\/wp-6.7\/previews\/eb-garamond\/eb-garamond-400-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>95</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-03 12:11:49]]></wp:post_date>
@@ -852,7 +852,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RUBoV-e6yHgQ.woff2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[EBGaramond.woff2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
