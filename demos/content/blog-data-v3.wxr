@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.2" created="2025-07-25 08:20" -->
+	<!-- generator="WordPress/6.8.2" created="2025-07-25 08:55" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,9 +27,9 @@
 
 <channel>
 	<title>Welcome to WordPress Playground</title>
-	<link>http://127.0.0.1:9400</link>
+	<link>/</link>
 	<description>WordPress without a server</description>
-	<pubDate>Fri, 25 Jul 2025 08:20:29 +0000</pubDate>
+	<pubDate>Fri, 25 Jul 2025 08:55:03 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://127.0.0.1:9400</wp:base_site_url>
@@ -75,9 +75,9 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
-	<url>http://127.0.0.1:9400/wp-content/uploads/2025/07/playground-logo-1-150x150.png</url>
+	<url>https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/playground-logo-150x150.png</url>
 	<title>Welcome to WordPress Playground</title>
-	<link>http://127.0.0.1:9400</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -89,21 +89,23 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Contents"},"align":"wide","className":"pointer-events-none","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|30","right":"var:preset|spacing|30"},"margin":{"bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained","contentSize":"800px"}} -->
-<div class="wp-block-group alignwide pointer-events-none" style="margin-bottom:var(--wp--preset--spacing--60);padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":1} -->
-<h1 class="wp-block-heading has-text-align-center">Run WordPress <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-accent-2-color">directly in your browser</mark></h1>
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/cover-image-playground-1024x576.png","id":77,"dimRatio":0,"isUserOverlayColor":true,"isDark":false,"sizeSlug":"large","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light"><img class="wp-block-cover__image-background wp-image-77 size-large" alt="" src="https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/cover-image-playground-1024x576.png" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"constrained","justifyContent":"left","contentSize":"50%"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":1,"fontSize":"xx-large"} -->
+<h1 class="wp-block-heading has-text-align-left has-xx-large-font-size">Run WordPress <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-accent-2-color">directly in your browser</mark></h1>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fixed","flexSize":"70%"}}} -->
-<p class="has-text-align-center">This website is perfect for training, demonstrating plugins and themes, and for testing purposes. It runs locally, so feel free to edit content, install plugins and play around. To restart, simply reload the browser.</p>
+<!-- wp:paragraph {"align":"left","style":{"layout":{"selfStretch":"fixed","flexSize":"70%"}}} -->
+<p class="has-text-align-left">This website is perfect for training, demonstrating plugins and themes, and for testing purposes. It runs locally, so feel free to edit content, install plugins and play around. To restart, simply reload the browser.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":"0px"}}} -->
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://wordpress.github.io/wordpress-playground/" style="border-radius:0px">Learn more</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
-<!-- /wp:group -->
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
 
 <!-- wp:group {"metadata":{"categories":["about"],"name":"About","patternName":"assembler/about-1","patternCategory":"about","remotePatternId":13552},"align":"full","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio","style":{"spacing":{"margin":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|30"},"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"backgroundColor":"accent-4","textColor":"base","layout":{"type":"constrained","justifyContent":"center","contentSize":"1120px"}} -->
 <div class="wp-block-group alignfull wp-embed-aspect-16-9 wp-has-aspect-ratio has-base-color has-accent-4-background-color has-text-color has-background has-link-color" id="about-section" style="margin-top:var(--wp--preset--spacing--60);margin-bottom:var(--wp--preset--spacing--60);padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|50"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -140,20 +142,20 @@
 
 <!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"32px"}}}} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"33.33%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%"><!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/thumbnail-playground-1.png" alt="handyman tools and equipment arranged neatly on a workbench, with a professional and approachable look"/><figcaption class="wp-element-caption"><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/WordPress/blueprints/refs/heads/trunk/blueprints/stylish-press/blueprint.json" data-type="link" data-id="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/WordPress/blueprints/refs/heads/trunk/blueprints/stylish-press/blueprint.json">StylePress</a></figcaption></figure>
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/WordPress/blueprints/refs/heads/trunk/blueprints/stylish-press/blueprint.json"><img src="https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/thumbnail-playground-1.png" alt="handyman tools and equipment arranged neatly on a workbench, with a professional and approachable look"/></a><figcaption class="wp-element-caption"><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/WordPress/blueprints/refs/heads/trunk/blueprints/stylish-press/blueprint.json" data-type="link" data-id="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/WordPress/blueprints/refs/heads/trunk/blueprints/stylish-press/blueprint.json">StylePress</a></figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","width":"33.33%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/WordPress/blueprints/refs/heads/trunk/blueprints/woo-shipping/blueprint.json"><img src="https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/thumbnail-playground-2.png" alt="ecommerce store concept, showcasing online shopping with cart, products, and digital elements"/></a><figcaption class="wp-element-caption">Woocommerce Store</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/WordPress/blueprints/refs/heads/trunk/blueprints/woo-shipping/blueprint.json"><img src="https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/thumbnail-playground-2.png" alt="ecommerce store concept, showcasing online shopping with cart, products, and digital elements"/></a><figcaption class="wp-element-caption"><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/WordPress/blueprints/refs/heads/trunk/blueprints/woo-shipping/blueprint.json">Woocommerce Store</a></figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","width":"33.33%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://playground.wordpress.net/?lazy"><img src="https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/thumbnail-playground-3.png" alt="a white room with a canvas displaying a drawing of a website wireframe, representing a blank canvas website concept"/></a><figcaption class="wp-element-caption">Blank Canvas</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://playground.wordpress.net/?lazy"><img src="https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/thumbnail-playground-3.png" alt="a white room with a canvas displaying a drawing of a website wireframe, representing a blank canvas website concept"/></a><figcaption class="wp-element-caption"><a href="https://playground.wordpress.net/?lazy">Blank Canvas</a></figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -188,8 +190,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2025-06-17 08:11:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-06-17 08:11:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-25 08:19:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-25 08:19:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-25 08:54:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-25 08:54:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -219,11 +221,15 @@
 		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
 		<link>http://127.0.0.1:9400/?page_id=3</link>
-		<pubDate>Fri, 25 Jul 2025 08:04:01 +0000</pubDate>
+		<pubDate>Fri, 25 Jul 2025 08:43:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:9400/?page_id=3</guid>
 		<description></description>
@@ -302,10 +308,10 @@
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-25 08:04:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-25 08:04:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-25 08:04:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-25 08:04:01]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2025-07-25 08:43:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-07-25 08:43:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-07-25 08:43:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-25 08:43:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
@@ -323,17 +329,17 @@
 					<item>
 		<title><![CDATA[playground-logo-1]]></title>
 		<link>http://127.0.0.1:9400/playground-logo-1/</link>
-		<pubDate>Fri, 25 Jul 2025 08:04:03 +0000</pubDate>
+		<pubDate>Fri, 25 Jul 2025 08:43:06 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://127.0.0.1:9400/wp-content/uploads/2025/07/playground-logo-1.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/playground-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-25 08:04:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-25 08:04:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-25 08:04:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-25 08:04:03]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2025-07-25 08:43:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-07-25 08:43:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-07-25 08:43:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-25 08:43:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[playground-logo-1]]></wp:post_name>
@@ -343,14 +349,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://127.0.0.1:9400/wp-content/uploads/2025/07/playground-logo-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/playground-logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/07/playground-logo-1.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2025/07/playground-logo.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:29:"2025/07/playground-logo-1.png";s:8:"filesize";i:4964;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:29:"playground-logo-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14557;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"playground-logo-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5673;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:29:"2025/07/playground-logo.png";s:8:"filesize";i:4964;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:29:"playground-logo-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14557;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"playground-logo-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5673;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -378,7 +384,11 @@
 		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
 		<link>http://127.0.0.1:9400/2025/06/17/wp-global-styles-twentytwentyfive/</link>
@@ -391,8 +401,8 @@
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2025-06-17 08:12:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-06-17 08:12:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-25 08:06:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-25 08:06:12]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-06-17 08:12:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-17 08:12:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfive]]></wp:post_name>
@@ -407,6 +417,10 @@
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Pages]]></title>
@@ -417,10 +431,6 @@
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfive"} /-->
 
-<!-- wp:spacer {"height":"40px"} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
 <!-- wp:post-content /-->
 
 <!-- wp:template-part {"slug":"footer-columns","theme":"twentytwentyfive"} /-->]]></content:encoded>
@@ -428,8 +438,8 @@
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2025-06-17 08:19:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-06-17 08:19:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-06-17 08:19:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-06-17 08:19:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-25 08:48:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-25 08:48:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[page]]></wp:post_name>
@@ -443,6 +453,10 @@
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -488,6 +502,10 @@
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Footer menu]]></title>
@@ -522,6 +540,10 @@
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[playground-logo-white]]></title>
@@ -546,14 +568,18 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://127.0.0.1:9400/wp-content/uploads/2025/07/playground-logo-white.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/playground-logo-white.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/07/playground-logo-white.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:8:"filesize";i:69306;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:8:"filesize";i:45069;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -650,6 +676,10 @@
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Footer menu 2]]></title>
@@ -679,6 +709,10 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
@@ -713,6 +747,10 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
@@ -787,6 +825,10 @@
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Menu]]></title>
@@ -818,6 +860,10 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
@@ -893,6 +939,43 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[cover-image-playground]]></title>
+		<link>http://127.0.0.1:9400/sample-page/cover-image-playground/</link>
+		<pubDate>Fri, 25 Jul 2025 08:49:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/cover-image-playground.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>77</wp:post_id>
+		<wp:post_date><![CDATA[2025-07-25 08:49:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-07-25 08:49:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-07-25 08:49:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-25 08:49:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cover-image-playground]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>2</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/cover-image-playground.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/07/cover-image-playground.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:34:"2025/07/cover-image-playground.png";s:8:"filesize";i:81129;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:34:"cover-image-playground-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:11045;}s:5:"large";a:5:{s:4:"file";s:35:"cover-image-playground-1024x576.png";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:47596;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"cover-image-playground-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:6805;}s:12:"medium_large";a:5:{s:4:"file";s:34:"cover-image-playground-768x432.png";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:31714;}s:9:"1536x1536";a:5:{s:4:"file";s:35:"cover-image-playground-1536x864.png";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:79436;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
