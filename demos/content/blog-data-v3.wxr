@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.2" created="2025-07-25 09:19" -->
+	<!-- generator="WordPress/6.8.2" created="2025-07-25 09:24" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,11 +29,11 @@
 	<title>Welcome to WordPress Playground</title>
 	<link>/</link>
 	<description>WordPress without a server</description>
-	<pubDate>Fri, 25 Jul 2025 09:19:09 +0000</pubDate>
+	<pubDate>Fri, 25 Jul 2025 09:24:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://127.0.0.1:9400</wp:base_site_url>
-	<wp:base_blog_url>http://127.0.0.1:9400</wp:base_blog_url>
+	<wp:base_site_url>/</wp:base_site_url>
+	<wp:base_blog_url>/</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -89,7 +89,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/cover-image-playground.png","id":77,"dimRatio":0,"isUserOverlayColor":true,"minHeight":100,"minHeightUnit":"vh","isDark":false,"sizeSlug":"full","layout":{"type":"constrained"}} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/cover-image-playground.png","id":77,"dimRatio":0,"isUserOverlayColor":true,"minHeight":100,"minHeightUnit":"vh","isDark":false,"sizeSlug":"full","layout":{"type":"constrained","contentSize":"1120px"}} -->
 <div class="wp-block-cover is-light" style="min-height:100vh"><img class="wp-block-cover__image-background wp-image-77 size-full" alt="" src="https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/cover-image-playground.png" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"constrained","justifyContent":"left","contentSize":"50%"}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":1,"fontSize":"xx-large"} -->
 <h1 class="wp-block-heading has-text-align-left has-xx-large-font-size">Run WordPress <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-accent-2-color">directly in your browser</mark></h1>
@@ -190,8 +190,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2025-06-17 08:11:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-06-17 08:11:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-25 09:19:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-25 09:19:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-25 09:24:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-25 09:24:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -213,31 +213,11 @@
 		<wp:meta_key><![CDATA[_oembed_time_0427a82ba8f69aacf4b1d4f5fc19afd9]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1751543111]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
 		<link>/?page_id=3</link>
-		<pubDate>Fri, 25 Jul 2025 09:03:55 +0000</pubDate>
+		<pubDate>Fri, 25 Jul 2025 09:22:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">/?page_id=3</guid>
 		<description></description>
@@ -245,7 +225,7 @@
 <h2 class="wp-block-heading">Who we are</h2>
 <!-- /wp:heading -->
 <!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://127.0.0.1:9400.</p>
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: /.</p>
 <!-- /wp:paragraph -->
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Comments</h2>
@@ -316,14 +296,14 @@
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-25 09:03:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-25 09:03:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-25 09:03:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-25 09:03:55]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2025-07-25 09:22:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-07-25 09:22:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-07-25 09:23:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-25 09:23:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_name><![CDATA[privacy-policy__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
@@ -333,21 +313,33 @@
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1753435427]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[playground-logo-1]]></title>
 		<link>/playground-logo-1/</link>
-		<pubDate>Fri, 25 Jul 2025 09:03:56 +0000</pubDate>
+		<pubDate>Fri, 25 Jul 2025 09:22:57 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/playground-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-25 09:03:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-25 09:03:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-25 09:03:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-25 09:03:56]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2025-07-25 09:22:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-07-25 09:22:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-07-25 09:22:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-25 09:22:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[playground-logo-1]]></wp:post_name>
@@ -368,19 +360,135 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>/?page_id=5</link>
+		<pubDate>Fri, 25 Jul 2025 09:03:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">Who we are</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: /.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Comments</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Media</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cookies</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Embedded content from other websites</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Who we share your data with</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How long we retain your data</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">What rights you have over your data</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Where your data is sent</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2025-07-25 09:03:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-07-25 09:03:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-07-25 09:23:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-25 09:23:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy__trashed-2]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1753435428]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[playground-logo-1]]></title>
 		<link>/playground-logo-1-2/</link>
-		<pubDate>Fri, 25 Jul 2025 08:43:06 +0000</pubDate>
+		<pubDate>Fri, 25 Jul 2025 09:03:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/playground-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-25 08:43:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-25 08:43:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-25 08:43:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-25 08:43:06]]></wp:post_modified_gmt>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2025-07-25 09:03:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-07-25 09:03:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-07-25 09:03:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-25 09:03:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[playground-logo-1-2]]></wp:post_name>
@@ -411,7 +519,7 @@
 
 <!-- wp:navigation-link {"label":"Collaborate","url":"Collaborate","kind":"custom"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
+		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2025-06-17 08:11:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-06-17 08:11:38]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2025-06-17 08:11:38]]></wp:post_modified>
@@ -433,6 +541,10 @@
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
@@ -443,7 +555,7 @@
 		<description></description>
 		<content:encoded><![CDATA[{"styles":{"blocks":{"core\/button":{"border":{"radius":"0px"},"typography":{"fontFamily":"var(--wp--preset--font-family--manrope)","textTransform":"uppercase","fontStyle":"normal","fontWeight":"600"}}},"elements":{"button":{"color":{"background":"var(--wp--preset--color--accent-2)"},"typography":{"textTransform":"none"}},"heading":{"typography":{"fontStyle":"normal","fontWeight":"400","fontFamily":"var(--wp--preset--font-family--eb-garamond)","textTransform":"none","lineHeight":"1.5","letterSpacing":"0px"}}},"color":{"text":"var(--wp--preset--color--accent-4)"},"typography":{"fontStyle":"normal","fontWeight":"300","fontSize":"var(--wp--preset--font-size--medium)","letterSpacing":"0px","fontFamily":"var:preset|font-family|manrope","lineHeight":"1.5"}},"settings":{"color":{"palette":{"theme":[{"color":"#FFFFFF","name":"Base","slug":"base"},{"color":"#f2f6f3","name":"Contrast","slug":"contrast"},{"color":"#FFEE58","name":"Accent 1","slug":"accent-1"},{"color":"#1960d9","name":"Accent 2","slug":"accent-2"},{"color":"#1960d9","name":"Accent 3","slug":"accent-3"},{"color":"#1e1e1e","name":"Accent 4","slug":"accent-4"},{"color":"#FBFAF3","name":"Accent 5","slug":"accent-5"},{"color":"color-mix(in srgb, currentColor 20%, transparent)","name":"Accent 6","slug":"accent-6"}]}},"typography":{"fontFamilies":{"theme":[{"name":"Manrope","slug":"manrope","fontFamily":"Manrope, sans-serif","fontFace":[{"src":["file:.\/assets\/fonts\/manrope\/Manrope-VariableFont_wght.woff2"],"fontWeight":"200 800","fontStyle":"normal","fontFamily":"Manrope"}]},{"name":"Fira Code","slug":"fira-code","fontFamily":"\"Fira Code\", monospace","fontFace":[{"src":["file:.\/assets\/fonts\/fira-code\/FiraCode-VariableFont_wght.woff2"],"fontWeight":"300 700","fontStyle":"normal","fontFamily":"\"Fira Code\""}]}],"custom":[]}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
+		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2025-06-17 08:12:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-06-17 08:12:04]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2025-06-17 08:12:04]]></wp:post_modified>
@@ -470,6 +582,10 @@
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Pages]]></title>
@@ -484,7 +600,7 @@
 
 <!-- wp:template-part {"slug":"footer-columns","theme":"twentytwentyfive"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[Displays a static page unless a custom template has been applied to that page or a dedicated template exists.]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
+		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2025-06-17 08:19:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-06-17 08:19:21]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2025-06-17 08:19:21]]></wp:post_modified>
@@ -515,6 +631,10 @@
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Header]]></title>
@@ -531,7 +651,7 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
+		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2025-06-17 08:19:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-06-17 08:19:21]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2025-06-17 08:19:21]]></wp:post_modified>
@@ -550,6 +670,10 @@
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -594,6 +718,10 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
@@ -704,6 +832,10 @@
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Footer menu 2]]></title>
@@ -733,6 +865,10 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
@@ -775,6 +911,10 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
@@ -865,6 +1005,10 @@
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Menu]]></title>
@@ -896,6 +1040,10 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
@@ -988,6 +1136,10 @@
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cover-image-playground]]></title>
@@ -1020,6 +1172,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:34:"2025/07/cover-image-playground.png";s:8:"filesize";i:81129;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:34:"cover-image-playground-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:11045;}s:5:"large";a:5:{s:4:"file";s:35:"cover-image-playground-1024x576.png";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:47596;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"cover-image-playground-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:6805;}s:12:"medium_large";a:5:{s:4:"file";s:34:"cover-image-playground-768x432.png";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:31714;}s:9:"1536x1536";a:5:{s:4:"file";s:35:"cover-image-playground-1536x864.png";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:79436;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
