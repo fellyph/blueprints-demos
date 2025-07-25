@@ -27,7 +27,7 @@
 
 <channel>
 	<title>Welcome to WordPress Playground</title>
-	<link>http://localhost:8881</link>
+	<link>/</link>
 	<description>WordPress without a server</description>
 	<pubDate>Fri, 25 Jul 2025 06:36:27 +0000</pubDate>
 	<language>en-US</language>
@@ -77,7 +77,7 @@
 <image>
 	<url>https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/playground-logo-150x150.png</url>
 	<title>Welcome to WordPress Playground</title>
-	<link>http://localhost:8881</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
