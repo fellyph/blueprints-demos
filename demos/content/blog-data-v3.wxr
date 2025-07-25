@@ -89,8 +89,8 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/cover-image-playground-1024x576.png","id":77,"dimRatio":0,"isUserOverlayColor":true,"isDark":false,"sizeSlug":"large","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light"><img class="wp-block-cover__image-background wp-image-77 size-large" alt="" src="https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/cover-image-playground-1024x576.png" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"constrained","justifyContent":"left","contentSize":"50%"}} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/cover-image-playground.png","id":77,"dimRatio":0,"isUserOverlayColor":true,"isDark":false,"sizeSlug":"large","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light"><img class="wp-block-cover__image-background wp-image-77 size-large" alt="" src="https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/assets/imgs/cover-image-playground.png" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"constrained","justifyContent":"left","contentSize":"50%"}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":1,"fontSize":"xx-large"} -->
 <h1 class="wp-block-heading has-text-align-left has-xx-large-font-size">Run WordPress <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-accent-2-color">directly in your browser</mark></h1>
 <!-- /wp:heading -->
