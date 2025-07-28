@@ -698,13 +698,13 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://playground.wordpress.net/?p=68</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Documentation","url":"#"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Documentation","url":"https://wordpress.github.io/wordpress-playground/"} /-->
 
-<!-- wp:navigation-link {"label":"Slack Channel","url":"#"} /-->
+<!-- wp:navigation-link {"label":"Slack Channel","url":"https://wordpress.slack.com/archives/C04EWKGDJ0K"} /-->
 
-<!-- wp:navigation-link {"label":"GitHub","url":"#"} /-->
+<!-- wp:navigation-link {"label":"GitHub","url":"https://github.com/WordPress/wordpress-playground/"} /-->
 
-<!-- wp:navigation-link {"label":"Do you find a bug?","url":"#"} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Did you find a bug?","url":"https://github.com/WordPress/wordpress-playground/issues"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2025-07-03 11:27:14]]></wp:post_date>
