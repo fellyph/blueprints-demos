@@ -627,23 +627,23 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|80"}},"layout":{"type":"flex","flexWrap":"wrap","verticalAlignment":"top","justifyContent":"space-between"}} -->
 <div class="wp-block-group"><!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"Blog","url":"#"} /-->
+<!-- wp:navigation-link {"label":"WordPress Playground","url":"https://wordpress.org/playground/"} /-->
 
-<!-- wp:navigation-link {"label":"About","url":"#"} /-->
+<!-- wp:navigation-link {"label":"About","url":"https://wordpress.github.io/wordpress-playground/about"} /-->
 
-<!-- wp:navigation-link {"label":"FAQs","url":"#"} /-->
+<!-- wp:navigation-link {"label":"Documentation","url":"https://wordpress.github.io/wordpress-playground/"} /-->
 
-<!-- wp:navigation-link {"label":"Authors","url":"#"} /-->
+<!-- wp:navigation-link {"label":"Awesome List","url":"https://github.com/akirk/awesome-wordpress-playground"} /-->
 <!-- /wp:navigation -->
 
 <!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"Events","url":"#"} /-->
+<!-- wp:navigation-link {"label":"Guides","url":"https://wordpress.github.io/wordpress-playground/guides"} /-->
 
-<!-- wp:navigation-link {"label":"Shop","url":"#"} /-->
+<!-- wp:navigation-link {"label":"For Developers","url":"https://wordpress.github.io/wordpress-playground/developers/"} /-->
 
-<!-- wp:navigation-link {"label":"Patterns","url":"#"} /-->
+<!-- wp:navigation-link {"label":"API Reference","url":"https://wordpress.github.io/wordpress-playground/api"} /-->
 
-<!-- wp:navigation-link {"label":"Themes","url":"#"} /-->
+<!-- wp:navigation-link {"label":"Contributing","url":"https://wordpress.github.io/wordpress-playground/contributing"} /-->
 <!-- /wp:navigation --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
