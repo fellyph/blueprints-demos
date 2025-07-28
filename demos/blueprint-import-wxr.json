@@ -14,7 +14,7 @@
       "step": "importWxr",
       "file": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/akirk/blueprints-demos/refs/heads/main/demos/content/blog-data-v3.wxr"
+        "url": "https://raw.githubusercontent.com/fellyph/blueprints-demos/refs/heads/main/demos/content/blog-data-v3.wxr"
       }
     },
     {
