@@ -90,9 +90,9 @@
 		<guid isPermaLink="false">http://playground.wordpress.net/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[
-<!-- wp:cover {"url":"https://playground.wordpress.net/scope:sad-sunny-forest/wp-content/uploads/2025/07/cover-image-playground.png","id":77,"dimRatio":0,"isUserOverlayColor":true,"minHeight":100,"minHeightUnit":"vh","isDark":false,"sizeSlug":"full","layout":{"type":"constrained","contentSize":"1120px"}} -->
-<div class="wp-block-cover is-light" style="min-height:100vh"><img class="wp-block-cover__image-background wp-image-77 size-full" alt="" src="https://playground.wordpress.net/scope:sad-sunny-forest/wp-content/uploads/2025/07/cover-image-playground.png" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"constrained","justifyContent":"left","contentSize":"50%"}} -->
-<div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":1,"fontSize":"xx-large","fontFamily":"fira-code"} -->
+<!-- wp:cover {"url":"https://playground.wordpress.net/scope:sad-sunny-forest/wp-content/uploads/2025/07/cover-image-playground.png","id":77,"dimRatio":0,"isUserOverlayColor":true,"minHeight":100,"minHeightUnit":"vh","isDark":false,"sizeSlug":"full","align":"wide","layout":{"type":"constrained","contentSize":"1120px"}} -->
+<div class="wp-block-cover alignwide is-light" style="min-height:100vh"><img class="wp-block-cover__image-background wp-image-77 size-full" alt="" src="https://playground.wordpress.net/scope:sad-sunny-forest/wp-content/uploads/2025/07/cover-image-playground.png" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"left","contentSize":"50%"}} -->
+<div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"left","level":1,"fontSize":"xx-large","fontFamily":"fira-code"} -->
 <h1 class="wp-block-heading has-text-align-left has-fira-code-font-family has-xx-large-font-size">Run WordPress <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-accent-2-color">directly in your browser</mark></h1>
 <!-- /wp:heading -->
 
