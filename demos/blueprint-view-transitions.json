@@ -1,7 +1,4 @@
 {
-  "features": {
-    "networking": true
-  },
   "steps": [
     {
       "step": "runPHP",
